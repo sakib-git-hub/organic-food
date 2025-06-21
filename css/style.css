@@ -246,7 +246,7 @@ height: 40px;
 
 .ani-text{
     font-size: 21px;
-    color: rgba(0, 0, 0, 0.795);
+    color: black;
 }
 
 @keyframes slideright{
